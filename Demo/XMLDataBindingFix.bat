@@ -1,0 +1,2 @@
+XMLDataBindingFix -NS:art Artist_GeneratedByXMLDataBinding.pas
+XMLDataBindingFix -NS:tns Song_GeneratedByXMLDataBinding.pas
